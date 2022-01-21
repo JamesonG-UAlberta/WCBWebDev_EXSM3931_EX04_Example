@@ -1,1 +1,0 @@
-Git takes snapshots of files.
